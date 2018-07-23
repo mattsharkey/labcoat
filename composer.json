@@ -1,10 +1,12 @@
 {
-  "name": "pixo/labcoat",
+  "name": "mattsharkey/labcoat",
   "type": "library",
   "description": "Development tools for Twig",
-  "homepage": "http://pixotech.com/",
   "license": "NCSA",
   "authors": [
+    {
+      "name": "Matt Sharkey"
+    },
     {
       "name": "Pixo",
       "homepage": "http://pixotech.com"
