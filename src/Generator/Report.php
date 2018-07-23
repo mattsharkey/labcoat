@@ -27,7 +27,7 @@ class Report implements \IteratorAggregate {
   }
 
   public function getIterator() {
-    return $this->events;
+    return new \ArrayIterator($this->events);
   }
 
   public function getDeletedCount() {
